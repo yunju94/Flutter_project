@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1092392142377",
+    "firebase_url": "https://reactchat-8ebc9-default-rtdb.firebaseio.com",
+    "project_id": "reactchat-8ebc9",
+    "storage_bucket": "reactchat-8ebc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092392142377:android:171317002db3af15127e38",
+        "android_client_info": {
+          "package_name": "com.example.modo_tour"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbdb4vv-xafacUvhMMUx9IUVqXyIajdCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
